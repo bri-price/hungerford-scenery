@@ -1,0 +1,17 @@
+{
+  "business": {
+    "PriceInUSD": 0.0,
+    "ThirdPartyShortName": "hungerford",
+    "AccountSellerId": "sellerid",
+    "UseFirstAvailableReleaseDate": true
+  },
+  "marketplace": {
+    "sections": [
+      {
+        "category": "World",
+        "section": "Scenery"
+      }
+    ]
+  },
+  "locations": []
+}

@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/hungerford-scenery/ContentHistory.json",
+      "size": 57,
+      "date": 133357253058958468
+    },
+    {
+      "path": "ContentInfo/hungerford-scenery/Thumbnail.jpg",
+      "size": 19295,
+      "date": 133046876660000000
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 56,
+      "date": 133357253058787896
+    },
+    {
+      "path": "scenery/mycompany/remove-veg.bgl",
+      "size": 623,
+      "date": 133357253058918856
+    }
+  ]
+}
